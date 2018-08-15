@@ -48,3 +48,5 @@ modificar pasajero,habitacion /// no llegamos
 hay que actualizar registro de igual forma q actualizar reservas a habitaciones
 
 en check in , si no hay reserva a ese numero, crear la reserva // pensarla bien , xq por ahi se equivoca al ingresar el numero y lo estamos obligando a crear uno nuevo 
+
+En la entrega final, se presentó un fallo que paso inadvertido: Una reserva no se hizo correctamente, probar con muchas reservas y fechas.
